@@ -21,15 +21,6 @@
 - Tạo Golden Dataset 100+ cases
 - Phân tích lỗi với phương pháp 5 Whys
 
-### Thời gian phân bổ (20 giờ)
-| Hoạt động | Giờ |
-|-----------|-----|
-| Code | 8 |
-| Architecture | 4 |
-| Testing/Debug | 3 |
-| Documentation | 3 |
-| Team coordination | 2 |
-
 ### Kết quả chính
 - 11 source files hoàn chỉnh
 - 100+ test cases
@@ -40,29 +31,29 @@
 
 ## 2. Chi tiết đóng góp
 
-### Code viết (1,847 dòng)
+### Code viết 
 
-**engine/llm_judge.py (450 dòng)**
+**engine/llm_judge.py )**
 - 5 rubrics đánh giá (Accuracy, Professionalism, Safety, Helpfulness, Conciseness)
 - Multi-model consensus với GPT-4o, Claude, Llama
 - Bias detection (position, length bias)
 - Conflict resolution (weighted avg + fallback)
 
-**engine/retrieval_evaluator.py (200 dòng)**
+**engine/retrieval_evaluator.py **
 - Hit Rate@k, MRR, Recall@k, Precision@k
 - Batch evaluation & failure clustering
 
-**engine/async_runner.py (350 dòng)**
+**engine/async_runner.py )**
 - Rate limiting với semaphore
 - Cost tracking
 - Performance monitoring
 
-**agent/main_agent.py (400 dòng)**
+**agent/main_agent.py **
 - RAG implementation
 - Query decomposition cho multi-hop
 - Semantic chunking
 
-**data/synthetic_gen.py (300 dòng)**
+**data/synthetic_gen.py **
 - 100+ test cases
 - 5 difficulty levels, 8 categories
 
@@ -142,17 +133,17 @@
 
 ## 6. Đề xuất cải tiến
 
-### Short-term (1-2 tuần)
+### Short-term 
 - [ ] Semantic caching: -40% cost
 - [ ] Hybrid search (BM25 + vector): +15% recall
 - [ ] Fine-tune embedding: +10% MRR
 
-### Medium-term (1 tháng)
+### Medium-term 
 - [ ] Real-time monitoring dashboard
 - [ ] CI/CD pipeline (GitHub Actions)
 - [ ] A/B testing framework
 
-### Long-term (3 tháng)
+### Long-term 
 - [ ] Knowledge graph integration
 - [ ] Custom SLM fine-tuning
 - [ ] Auto-ML for threshold optimization
@@ -181,7 +172,7 @@
 
 ## 8. Kế hoạch phát triển
 
-### Immediate (Tuần 1-2)
+### Immediate 
 ```markdown
 Week 1:
 - Implement semantic caching
@@ -194,7 +185,7 @@ Week 2:
 - Run A/B test
 ```
 
-### Career goals (3-6 tháng)
+### Career goals 
 - [ ] AWS Certified Solutions Architect
 - [ ] 5 PRs to open source RAG projects
 - [ ] Technical blog with 10 posts
