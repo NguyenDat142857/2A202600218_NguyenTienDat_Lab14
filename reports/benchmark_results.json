@@ -1,0 +1,1009 @@
+[
+  {
+    "test_case": "Tài liệu 'QUY TRÌNH KIỂM SOÁT TRUY CẬP HỆ THỐNG' được tạo ra nhằm mục đích gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Tài liệu 'QUY TRÌNH KIỂM SOÁT TRUY CẬP HỆ THỐNG' được tạo ra nhằm mục đích gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5026073999997607,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai chịu trách nhiệm phê duyệt quyền truy cập ở mức Level 2?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai chịu trách nhiệm phê duyệt quyền truy cập ở mức Level 2?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5025974999998652,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền truy cập Level 4 có yêu cầu bổ sung gì ngoài phê duyệt không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền truy cập Level 4 có yêu cầu bổ sung gì ngoài phê duyệt không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5025942000002033,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Những cấp quyền nào cần sự kiểm tra từ IT Security?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Những cấp quyền nào cần sự kiểm tra từ IT Security?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5025919999998223,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Trong tình huống khẩn cấp, ai có thể cấp quyền truy cập tạm thời?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Trong tình huống khẩn cấp, ai có thể cấp quyền truy cập tạm thời?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5025912000000972,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Khi nhân viên nghỉ việc, quyền truy cập sẽ bị xử lý như thế nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Khi nhân viên nghỉ việc, quyền truy cập sẽ bị xử lý như thế nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5045970000001034,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Những hệ thống hoặc công cụ nào được sử dụng trong quy trình này?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Những hệ thống hoặc công cụ nào được sử dụng trong quy trình này?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5046253000000434,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "IT Security thực hiện kiểm tra quyền truy cập định kỳ bao lâu một lần?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'IT Security thực hiện kiểm tra quyền truy cập định kỳ bao lâu một lần?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5046252000001914,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu Tech Lead không có mặt, ai sẽ phê duyệt quyền tạm thời?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu Tech Lead không có mặt, ai sẽ phê duyệt quyền tạm thời?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.504625600000054,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Thời gian xử lý cho quyền Level 1 là bao lâu?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Thời gian xử lý cho quyền Level 1 là bao lâu?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.504625600000054,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai có quyền phê duyệt truy cập Level 4?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai có quyền phê duyệt truy cập Level 4?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5057913999999073,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình yêu cầu cấp quyền bắt đầu từ bước nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình yêu cầu cấp quyền bắt đầu từ bước nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5058202000000165,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Công cụ nào được dùng để lưu trữ log audit?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Công cụ nào được dùng để lưu trữ log audit?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.505834799999775,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "IT Security cần báo cáo các bất thường trong bao lâu?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'IT Security cần báo cáo các bất thường trong bao lâu?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5058465000001888,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nhân viên mới trong 30 ngày đầu sẽ có quyền gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nhân viên mới trong 30 ngày đầu sẽ có quyền gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5058627999997043,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền truy cập tạm thời trong trường hợp khẩn cấp có hiệu lực tối đa bao lâu?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền truy cập tạm thời trong trường hợp khẩn cấp có hiệu lực tối đa bao lâu?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5011899000000994,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền Elevated Access dành cho những đối tượng nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền Elevated Access dành cho những đối tượng nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5011900999998034,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Điều kiện để cấp quyền Admin Access là gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Điều kiện để cấp quyền Admin Access là gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5011906999998246,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Access review được thực hiện bởi bộ phận nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Access review được thực hiện bởi bộ phận nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.501191899999867,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Email it-access@company.internal được dùng để làm gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Email it-access@company.internal được dùng để làm gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5011936999999307,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Tài liệu này trước đây có tên gọi là gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Tài liệu này trước đây có tên gọi là gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.515050599999995,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu nhân viên chưa hoàn thành thử việc, họ có thể được cấp Level 3 không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu nhân viên chưa hoàn thành thử việc, họ có thể được cấp Level 3 không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5150348000001941,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Một nhân viên sau 30 ngày vẫn giữ quyền Level 1 có hợp lý không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Một nhân viên sau 30 ngày vẫn giữ quyền Level 1 có hợp lý không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5150306000000455,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình cấp quyền tiêu chuẩn gồm những bước nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình cấp quyền tiêu chuẩn gồm những bước nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5150241999999707,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Khi hợp đồng của nhân viên kết thúc, quyền truy cập được xử lý ra sao?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Khi hợp đồng của nhân viên kết thúc, quyền truy cập được xử lý ra sao?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5150189000000864,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình kiểm soát truy cập hệ thống áp dụng cho những hệ thống nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình kiểm soát truy cập hệ thống áp dụng cho những hệ thống nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.501010199999655,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai chịu trách nhiệm kiểm tra compliance trước khi cấp quyền?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai chịu trách nhiệm kiểm tra compliance trước khi cấp quyền?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5010056999999506,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Sau khi quyền được cấp, nhân viên sẽ nhận thông báo qua đâu?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Sau khi quyền được cấp, nhân viên sẽ nhận thông báo qua đâu?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5010049000002255,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền Level 3 thường dành cho những ai?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền Level 3 thường dành cho những ai?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5010062999999718,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu một quyền yêu cầu review bảo mật, ai sẽ thực hiện?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu một quyền yêu cầu review bảo mật, ai sẽ thực hiện?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.501003700000183,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền truy cập có thể bị thu hồi trong những trường hợp nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền truy cập có thể bị thu hồi trong những trường hợp nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5027195000002393,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Trong quy trình chuẩn, bước nào diễn ra trước khi IT Admin cấp quyền?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Trong quy trình chuẩn, bước nào diễn ra trước khi IT Admin cấp quyền?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5027211000001444,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu không có ticket Jira, quyền truy cập có được cấp không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu không có ticket Jira, quyền truy cập có được cấp không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5026981999999407,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình escalation được sử dụng trong tình huống nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình escalation được sử dụng trong tình huống nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5026735000001281,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Sau 24 giờ quyền tạm thời chưa có ticket chính thức thì điều gì xảy ra?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Sau 24 giờ quyền tạm thời chưa có ticket chính thức thì điều gì xảy ra?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5026716000002125,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai là người tạo yêu cầu cấp quyền ban đầu?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai là người tạo yêu cầu cấp quyền ban đầu?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5149743000001763,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Trong quy trình, bước cuối cùng là gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Trong quy trình, bước cuối cùng là gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5149816000002829,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Splunk đóng vai trò gì trong hệ thống này?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Splunk đóng vai trò gì trong hệ thống này?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5149831999997332,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Okta được sử dụng để làm gì trong quy trình?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Okta được sử dụng để làm gì trong quy trình?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5149865999997019,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu quyền truy cập không được review định kỳ, điều gì có thể xảy ra?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu quyền truy cập không được review định kỳ, điều gì có thể xảy ra?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5149919999998929,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai chịu trách nhiệm chính trong việc review quyền truy cập định kỳ?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai chịu trách nhiệm chính trong việc review quyền truy cập định kỳ?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5125146999998833,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền Level 2 còn được gọi là gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền Level 2 còn được gọi là gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5125176000001375,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quyền Level 4 tương ứng với loại quyền nào?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quyền Level 4 tương ứng với loại quyền nào?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5125214999998207,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu một nhân viên yêu cầu quyền cao hơn nhưng không đủ điều kiện, điều gì xảy ra?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu một nhân viên yêu cầu quyền cao hơn nhưng không đủ điều kiện, điều gì xảy ra?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5125264999996944,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Trong trường hợp khẩn cấp, việc cấp quyền có cần ghi log không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Trong trường hợp khẩn cấp, việc cấp quyền có cần ghi log không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5125297000004139,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu IT Admin bỏ qua bước kiểm tra compliance, điều gì có thể xảy ra?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu IT Admin bỏ qua bước kiểm tra compliance, điều gì có thể xảy ra?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5002692999996725,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình này có áp dụng cho hệ thống bên ngoài không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình này có áp dụng cho hệ thống bên ngoài không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5002439999998387,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Bao lâu thì cần thực hiện access review một lần?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Bao lâu thì cần thực hiện access review một lần?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5002371000000494,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai có quyền cấp quyền trực tiếp mà không cần phê duyệt?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai có quyền cấp quyền trực tiếp mà không cần phê duyệt?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5002291999999215,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu quyền tạm thời bị lạm dụng, hậu quả là gì?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu quyền tạm thời bị lạm dụng, hậu quả là gì?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5002184999998462,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Quy trình này có yêu cầu đào tạo bảo mật không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Quy trình này có yêu cầu đào tạo bảo mật không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.515306899999814,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Nếu một quyền không được sử dụng trong thời gian dài, có nên giữ không?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Nếu một quyền không được sử dụng trong thời gian dài, có nên giữ không?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5153187999999318,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  },
+  {
+    "test_case": "Ai là người chịu trách nhiệm cuối cùng về bảo mật truy cập?",
+    "agent_response": "Dựa trên tài liệu hệ thống, tôi xin trả lời câu hỏi 'Ai là người chịu trách nhiệm cuối cùng về bảo mật truy cập?' như sau: [Câu trả lời mẫu].",
+    "latency": 0.5153299999997216,
+    "ragas": {
+      "faithfulness": 0.9,
+      "relevancy": 0.8,
+      "retrieval": {
+        "hit_rate": 1.0,
+        "mrr": 0.5
+      }
+    },
+    "judge": {
+      "final_score": 4.5,
+      "agreement_rate": 0.8,
+      "reasoning": "Cả 2 model đồng ý đây là câu trả lời tốt."
+    },
+    "status": "pass"
+  }
+]
